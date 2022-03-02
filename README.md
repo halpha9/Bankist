@@ -1,5 +1,5 @@
 # Bankist
-This is a Banking APP with 4 accounts, these accounts can interact with each othe. 
+This is a Banking APP with 4 accounts, these accounts can interact with each other. 
 
 You can send funds between them provided there is enough money in the account.
 You can request a loan provided the amount in the account is 10% of the loan.
